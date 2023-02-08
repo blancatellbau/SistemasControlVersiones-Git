@@ -5,4 +5,3 @@ Estos son los comandos que hemos empleado hasta ahora:
 2. Git add
 3. Git commit
 4. Git status
-5. Git log
